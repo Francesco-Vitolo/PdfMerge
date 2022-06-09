@@ -1,0 +1,14 @@
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\PdfSharp-merge\PdfSharp-merge\bin\Debug\PdfSharp-merge.exe.config
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\PdfSharp-merge\PdfSharp-merge\bin\Debug\PdfSharp-merge.exe
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\PdfSharp-merge\PdfSharp-merge\bin\Debug\PdfSharp-merge.pdb
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\PdfSharp-merge\PdfSharp-merge\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\PdfSharp-merge\PdfSharp-merge\bin\Debug\PdfSharp.dll
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\PdfSharp-merge\PdfSharp-merge\bin\Debug\PdfSharp.xml
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\PdfSharp-merge\PdfSharp-merge\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\PdfSharp-merge\PdfSharp-merge\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\PdfSharp-merge\PdfSharp-merge\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\PdfSharp-merge\PdfSharp-merge\obj\Debug\PdfSharp-merge.csproj.AssemblyReference.cache
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\PdfSharp-merge\PdfSharp-merge\obj\Debug\PdfSharp-merge.csproj.CoreCompileInputs.cache
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\PdfSharp-merge\PdfSharp-merge\obj\Debug\PdfSharp-merge.csproj.CopyComplete
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\PdfSharp-merge\PdfSharp-merge\obj\Debug\PdfSharp-merge.exe
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\PdfSharp-merge\PdfSharp-merge\obj\Debug\PdfSharp-merge.pdb
